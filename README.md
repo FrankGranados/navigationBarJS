@@ -18,7 +18,7 @@ As an addition, in the footer of the page social network icons were added, which
 
 <img src=".\images\social-icons.png"  />
 
-> Browse the layout at this  [link](https://frankgranados.github.io/RPSLS-TheGameJS)
+> Browse the layout at this  [link](https://frankgranados.github.io/navigationBarJS/)
 
 ### Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
